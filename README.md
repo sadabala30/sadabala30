@@ -122,14 +122,6 @@ Building intelligent AI systems with Machine Learning, Deep Learning, Generative
 
 ---
 
-# 📄 Publications
-
-**Springer Publication**
-
-Research paper based on the Jivamritam System developed during the Live-in-Labs program.
-
----
-
 # 🌐 Connect With Me
 
 <p align="center">
