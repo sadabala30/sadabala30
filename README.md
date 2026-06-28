@@ -1,42 +1,40 @@
 <h1 align="center">Hi 👋, I'm Sai Jyothi Gayathri Adabala</h1>
 
 <h3 align="center">
-AI / Machine Learning Engineer • LLMs • Deep Learning • MLOps
+AI / Machine Learning Engineer | LLMs | Deep Learning | MLOps
 </h3>
 
 <p align="center">
-Building production-ready AI systems using Machine Learning, Deep Learning, Retrieval-Augmented Generation (RAG), and Large Language Models.
+Building intelligent AI systems with Machine Learning, Deep Learning, Generative AI and Large Language Models.
 </p>
 
 <p align="center">
-
 <a href="https://www.linkedin.com/in/sai-jyothi-gayathri-adabala-a41a9818b/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://leetcode.com/u/jyo_celyn/">
-<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
 <a href="mailto:asjyothig@gmail.com">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 </p>
 
 ---
 
 # 👩 About Me
 
-🎓 Master of Science in Computer Science
+🎓 **M.S. in Computer Science** — Rivier University
 
-🤖 AI / Machine Learning Engineer passionate about building intelligent systems using Machine Learning, Deep Learning and Large Language Models.
+🤖 AI / Machine Learning Engineer passionate about solving real-world problems using Machine Learning, Deep Learning and Generative AI.
 
-💡 Experienced in building RAG pipelines, deploying ML models, fine-tuning language models and developing scalable AI applications.
+💡 Experienced in building production-ready AI systems including Retrieval-Augmented Generation (RAG), LLM evaluation, model deployment, MLOps and enterprise AI workflows.
 
-💻 Consistently solving LeetCode to strengthen Data Structures & Algorithms and problem-solving skills.
+💻 Regular LeetCode solver focused on strengthening Data Structures & Algorithms.
 
-🌱 Currently exploring Agentic AI, LangGraph and advanced MLOps.
+🌱 Currently learning Agentic AI, LangGraph and advanced LLM systems.
 
 ---
 
@@ -57,7 +55,7 @@ Building production-ready AI systems using Machine Learning, Deep Learning, Retr
 ![](https://img.shields.io/badge/RAG-7B1FA2?style=for-the-badge)
 ![](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge)
 ![](https://img.shields.io/badge/Prompt_Engineering-1565C0?style=for-the-badge)
-![](https://img.shields.io/badge/LLMs-6A1B9A?style=for-the-badge)
+![](https://img.shields.io/badge/LangGraph-4CAF50?style=for-the-badge)
 
 ### ☁️ Deployment
 
@@ -70,75 +68,65 @@ Building production-ready AI systems using Machine Learning, Deep Learning, Retr
 
 ![](https://img.shields.io/badge/Python-blue?style=for-the-badge)
 ![](https://img.shields.io/badge/Java-red?style=for-the-badge)
-![](https://img.shields.io/badge/SQL-blueviolet?style=for-the-badge)
+![](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
 
 ---
 
-# 💼 Experience Highlights
+# 💼 Experience
 
 | Company | Role | Highlights |
 |---------|------|------------|
-| **Aisera** | AI/ML Engineer | Built multi-agent orchestration systems, fine-tuned language models, integrated enterprise knowledge graphs, implemented AI evaluation frameworks. |
-| **Freshworks** | AI/ML Engineer | Designed Retrieval-Augmented Generation (RAG) pipelines, productionized ML models, developed Spark ETL pipelines and reduced LLM inference costs. |
+| **Aisera** | AI/ML Engineer | Built multi-agent orchestration systems using LangGraph, fine-tuned language models, integrated enterprise knowledge graphs and developed LLM evaluation frameworks. |
+| **Freshworks** | AI/ML Engineer | Designed Retrieval-Augmented Generation (RAG) pipelines, productionized ML models, developed Spark ETL pipelines and optimized LLM inference costs. |
 | **HCL Technologies** | ML Engineer | Developed Computer Vision and NLP solutions, engineered ML pipelines, containerized models with Docker and deployed REST APIs. |
 
 ---
 
 # 🎓 Education
 
-| Degree | University |
-|---------|------------|
-| Master of Science in Computer Science | Rivier University |
-| Bachelor of Technology in Electrical & Electronics Engineering | Amrita School of Engineering |
+| Degree | Institution |
+|---------|-------------|
+| **M.S. Computer Science** | Rivier University |
+| **B.Tech Electrical & Electronics Engineering** | Amrita School of Engineering |
 
 ---
 
-# 💻 LeetCode Journey
+# 💻 LeetCode
 
-I actively solve LeetCode problems to strengthen my problem-solving skills and prepare for software engineering interviews.
+<p align="center">
+<a href="https://leetcode.com/u/jyo_celyn/">
+<img src="https://leetcard.jacoblin.cool/jyo_celyn?theme=dark&font=Karma&ext=heatmap"/>
+</a>
+</p>
 
-### Profile
-
-https://leetcode.com/u/jyo_celyn/
-
----
-
-### LeetCode Stats
-
-[![LeetCode Stats](https://leetcode.card.workers.dev/jyo_celyn?theme=dark&font=baloo)](https://leetcode.com/u/jyo_celyn)
+<p align="center">
+<b>Profile:</b> <a href="https://leetcode.com/u/jyo_celyn/">leetcode.com/u/jyo_celyn</a>
+</p>
 
 ---
 
-# 📊 GitHub Stats
+# 🚀 Core Expertise
 
-![](https://github-readme-stats.vercel.app/api?username=sadabala30&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sadabala30&layout=compact&theme=tokyonight)
-
----
-
-# 🚀 Current Focus
-
-- 🤖 Agentic AI
-- 🧠 Large Language Models
-- 📚 Retrieval-Augmented Generation
-- ⚡ LangGraph
-- ☁️ AWS
-- 🐳 Docker
-- 📊 Machine Learning
-- 💻 Data Structures & Algorithms
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- Deep Learning
+- Machine Learning
+- Natural Language Processing
+- Computer Vision
+- Time-Series Forecasting
+- Model Deployment
+- MLOps
+- AWS
+- Docker
+- Data Structures & Algorithms
 
 ---
 
-# 📌 Featured Projects
+# 📄 Publications
 
-Coming soon 🚀
+**Springer Publication**
 
-- LLM-powered RAG Chatbot
-- Image Classification using CNNs
-- NLP Text Classification
-- Computer Vision Projects
-- End-to-End Machine Learning Pipelines
+Research paper based on the Jivamritam System developed during the Live-in-Labs program.
 
 ---
 
@@ -147,27 +135,19 @@ Coming soon 🚀
 <p align="center">
 
 <a href="https://github.com/sadabala30">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/sai-jyothi-gayathri-adabala-a41a9818b/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://leetcode.com/u/jyo_celyn/">
-<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
 <a href="mailto:asjyothig@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
-
----
-
-<h3 align="center">
-
-⭐ Thanks for visiting my profile! ⭐
-
-</h3>
